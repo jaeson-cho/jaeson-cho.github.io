@@ -1,0 +1,82 @@
+.profile{
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: 600px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #a13525;
+}
+body{
+	background-color: #0f4c81	;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.profilebanner{
+	background-image: url("backdrop.jpg"); 
+	height: 800px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+	/*margin-top: 40px;
+	padding-top: 80px;
+	padding-bottom: 60px;*/
+}
+.topnav a:hover {
+  	background-color: #0f4c81	;
+  	color: black;
+}
+.profname{
+	text-align: center;
+}
+.selfinfo{
+	background-color:#3e6383; 
+	position: relative;
+	margin-top: 20px;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+.profileright{
+	float:right;
+  	top: 8px;
+  	right: 40px;
+  	font-size: 18px;
+  	width: 25%;
+  	margin-top:-120px;
+  	overflow: hidden;
+  	height: 400px;
+  	margin-right: 40px;
+  	padding-left: 10px;
+}
+h1{
+	font-family: Helvetica, Arial, sans-serif;
+	color:	#c0d1da;
+	padding-bottom: 20px;
+	margin-top:0px;
+	padding-left: 40px;
+}
+h2{
+	font-family: Helvetica, Arial, sans-serif;
+	color:	#c0d1da;
+	padding-left: 40px;
+}
+h3{
+	font-family: Helvetica, Arial, sans-serif;
+	color:	#c0d1da;
+	padding-left: 40px;
+}
+p{
+	font-family: Helvetica, Arial, sans-serif;
+	color:	#c0d1da;
+	padding-left: 80px;
+}
